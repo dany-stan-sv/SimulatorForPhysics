@@ -12,13 +12,15 @@ import android.view.View;
 
 public class FinishClass extends AppCompatActivity {
 
+    String themeName = MainActivity.selectionTheme;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         setContentView(R.layout.finishclass);
 
-        setTitle (MainActivity.selectionTheme);
+        setTitle (themeName);
     }
 
     public void click (View view) {
