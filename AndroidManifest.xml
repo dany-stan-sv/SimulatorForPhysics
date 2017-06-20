@@ -13,51 +13,19 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".DiffusionQuest001"
+        <activity android:name=".TypeQuest001"
             android:label="@string/app_name">
         </activity>
 
-        <activity android:name=".DiffusionQuest002"
+        <activity android:name=".TypeQuest002"
             android:label="@string/app_name">
         </activity>
 
-        <activity android:name=".DiffusionQuest003"
+        <activity android:name=".TypeQuest003"
             android:label="@string/app_name">
         </activity>
 
-        <activity android:name=".DiffusionQuest004"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".DiffusionQuest005"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".DiffusionQuest006"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest001"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest002"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest003"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest004"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest005"
-            android:label="@string/app_name">
-        </activity>
-
-        <activity android:name=".PressureQuest006"
+        <activity android:name=".TypeQuest004"
             android:label="@string/app_name">
         </activity>
 
